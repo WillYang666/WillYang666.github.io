@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://WillYang666.github.io/</id>
     <title>Chunliang (Liam) Yang&apos;s Blog</title>
-    <updated>2021-06-14T02:38:55.920Z</updated>
+    <updated>2021-06-29T07:53:22.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://WillYang666.github.io/"/>
     <link rel="self" href="https://WillYang666.github.io/atom.xml"/>
@@ -10,6 +10,43 @@
     <logo>https://WillYang666.github.io/images/avatar.png</logo>
     <icon>https://WillYang666.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Chunliang (Liam) Yang&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[自说自话 Weekly Review 019]]></title>
+        <id>https://WillYang666.github.io/post/zi-shuo-zi-hua-weekly-review-019/</id>
+        <link href="https://WillYang666.github.io/post/zi-shuo-zi-hua-weekly-review-019/">
+        </link>
+        <updated>2021-06-21T07:50:31.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://WillYang666.github.io//post-images/1624953136548.jpg" alt="" loading="lazy"><br>
+周一好！「自说自话 Weekly Review」是我的（大概）一周回顾，对一周内接触的各类信息做个总结，本期为第十九期，2021年的第二十六周。<br>
+本周延迟的原因是因为毕业相关的事情比较多，所以迟了些，大家不要见怪嗷！</p>
+<h1 id="微信的架构是如何实现分布式消息分发"><a href="https://anduin.aiursoft.com/post/2020/5/21/how-wechat-design-distributed-messging-protocol">💡 微信的架构是如何实现分布式消息分发？</a></h1>
+<p>这篇文章还是挺有意思的，很多被吐槽的微信问题有了答案：</p>
+<ul>
+<li>扫码登录时手机不在身边的抓狂</li>
+<li>聊天记录一片空白的惆怅</li>
+<li>发送消息时红色感叹号的无奈</li>
+</ul>
+<p>TLDR：主要是基于几个原因</p>
+<ul>
+<li>分布式的服务器</li>
+<li>服务器不储存用户聊天记录</li>
+</ul>
+<h1 id="内卷时代的保研经济"><a href="https://mp.weixin.qq.com/s/w9o7WLjPnOyeF-L8Yv155Q">💡 内卷时代的保研经济</a></h1>
+<p>来自唯理通讯</p>
+<blockquote>
+<p>保研和考研是中国研究生招生的两种途径，但不同于广为人知的考研，保研只适用于部分学校的优秀本科毕业生，他们可免于参加全国硕士研究生考试。尽管总体规模偏小，但保研在研究生入学考核中，正扮演着越来越重要的角色，成为本科生竞争的新赛道。在保研竞争中，掌握信息就掌握了主动权，保研咨询机构正是在大量信息需求下诞生的产物，能在短时间内最大限度提升本科生的竞争力。但与此同时，保研咨询机构也受到颇多质疑，包括办学资质和辅导老师资质。面对资质疑云，正在迅速扩大的保研咨询机构将驶向何方？</p>
+</blockquote>
+<h1 id="书-我没看书">书📖  《我没看书》</h1>
+<p>我反思，我有罪！（实际上都是看了一丢丢，没有看很多，四舍五入我决定归类为没看了😂）</p>
+<h1 id="影-困在时间里的父亲"><a href="https://movie.douban.com/subject/33432655/"> 影 🎬  困在时间里的父亲 </a></h1>
+<p>安东尼·霍普金斯演技绝了！今年不拿影帝就是注水💉。</p>
+<h1 id="节目-毕业坦白局"><a href="https://search.bilibili.com/all?keyword=%E6%AF%95%E4%B8%9A%E5%9D%A6%E7%99%BD%E5%B1%80&amp;from_source=webtop_search&amp;spm_id_from=333.851"> 节目 🎬  毕业坦白局 </a></h1>
+<p>B 站出的一档节目，挺有看头的，请来了很多好的嘉宾：罗翔、戴建业、陶勇等。</p>
+<blockquote>
+<p>当代毕业生在毕业时真正面临的、真正关心的难题 是什么？又会找到怎样的答案？ 坦白说，这不是一档试图给出答案的栏目。 5位应届毕业生与5位前辈，当他们一一相遇，讨论到这些事关人生的问题时，会碰撞出什么样的火花？ 6月12日至6月20日，《毕业坦白局》两天一更，一起来谈谈。</p>
+</blockquote>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自说自话 Weekly Review 018]]></title>
         <id>https://WillYang666.github.io/post/zi-shuo-zi-hua-weekly-review-018/</id>
